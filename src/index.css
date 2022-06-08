@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .nav-li{
+        @apply mx-[20px] text-[17px] px-[20px] py-[8px] text-[#212832]  font-normal
+    }
+    .footer-item{
+        @apply text-[18px] font-medium text-[#5E6282]
+    }
+    .footer-title{
+        @apply text-[21px] font-bold text-black
+    }
+
+    .center{
+        @apply items-center justify-center text-center
+    }
+
+}
