@@ -1,5 +1,5 @@
 <template>
-  <div class="lg:mt-[200px] mt-14 mx-[140px]">
+  <div class="lg:mt-[200px] mt-14 md:mx-[140px] mx-[30px]">
     <div class="center">
       <h4 class="text-[#5E6282] text-[18px] font-medium">CATEGORY</h4>
       <h1 class="text-[35px] lg:text-[50px] font-bold text-[#14183E] lining-[64px]">We Offer Best Services</h1>

@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-[100px] lg:mt-[150px] lg:mx-[200px] mx-[60px]">
+  <div class="mt-[100px] lg:mt-[150px] lg:mx-[200px] mx-[30px]">
     <div class="center">
       <h4 class="text-[#5E6282] text-[18px] font-medium">Top Selling</h4>
       <h1 class="lg:text-[50px] text-[30px] font-bold text-[#14183E] lining-[64px]">Top Destinations</h1>

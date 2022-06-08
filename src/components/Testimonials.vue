@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-[150px] lg:mx-[220px] mx-[50px] mb-40">
+  <div class="mt-[150px] lg:mx-[220px] mx-[30px] mb-80">
     <div class="2xl:grid 2xl:grid-cols-2 ">
       <div>
         <p class="uppercase text-lg text-[#5E6282] font-semibold text-center lg:text-left">Testimonials</p>

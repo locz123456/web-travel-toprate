@@ -1,13 +1,13 @@
 <template>
   <div class="footer z-20">
-    <footer class="mx-[140px] my-[48px] flex justify-evenly">
+    <footer class="lg:mx-[140px] mx-[30px] my-[48px] flex justify-evenly">
       <div class="w-[200px]">
-        <div class="flex h-[100px] center"><h1 class="text-[44px] font-medium text-[#181E4B] ">Jadoo.</h1></div>
+        <div class="flex h-[100px] items-center"><h1 class="text-[44px] font-medium text-[#181E4B] ">Jadoo.</h1></div>
         <p class="text-[13px] text-[#5E6282]">Book your trip in minute, get full
           Control for much longer.
         </p>
       </div>
-      <div>
+      <div class="hidden lg:block">
         <div class="flex h-[100px] center"><h3 class="footer-title ">Company</h3></div>
         <ul >
           <li class="mb-[12px]">
@@ -21,7 +21,7 @@
           </li>
         </ul>
       </div>
-      <div>
+      <div class="hidden lg:block">
         <div class="flex h-[100px] center"><h3 class="footer-title ">Contact</h3></div>
         <ul >
           <li class="mb-[12px]">
@@ -34,8 +34,8 @@
             <a href="" class="footer-item">Affilates</a>
           </li>
         </ul>
-      </div>
-      <div>
+      </div >
+      <div class="hidden lg:block">
         <div class="flex h-[100px] center"><h3 class="footer-title ">More</h3></div>
         <ul >
           <li class="mb-[12px]">

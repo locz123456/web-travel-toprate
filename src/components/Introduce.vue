@@ -1,5 +1,5 @@
 <template>
-  <div class="mx-[40px] px-[20px] mb-[120px] lg:mx-[140px]">
+  <div class="mx-[30px] md:px-[20px] mb-[120px] lg:mx-[140px]">
     <div class="grid-cols-1 grid xl:grid-cols-2">
       <div class="lg:mt-[100px] mt-10 text-center lg:text-left">
         <p class="text-[20px] text-[#DF6951] font-bold ">Best Destinations around the world</p>

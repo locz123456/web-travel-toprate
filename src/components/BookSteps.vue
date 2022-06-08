@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-[150px] lg:mx-[220px] mx-[100px] ">
+  <div class="mt-[150px] lg:mx-[220px] md:mx-[100px] mx-[30px] ">
     <h5 class="text-[#5E6282] text-[18px] font-medium text-center lg:text-left">Easy and Fast</h5>
     <div class="xl:grid xl:grid-cols-2 ">
       <div>
@@ -34,7 +34,7 @@
       </div>
       <div class="justify-center items-center flex mt-20 md:mt-0">
         <div class="shadow-md shadow-[50px_90px_170px_-5px_rgba(200,200,200,0.3)] rounded-2xl">
-          <div class="w-[370px] h-[400px] rounded-2xl shadow-md shadow-[70px_-105px_150px_-10px_rgba(89,177,230,0.3)] ">
+          <div class="md:w-[370px] md:h-[400px] w-[350px] h-[380px] rounded-2xl shadow-md shadow-[70px_-105px_150px_-10px_rgba(89,177,230,0.3)] ">
             <div class=" flex justify-center">
               <img class="mt-5" src="../img/Rectangle.jpg">
             </div>
